@@ -1,0 +1,13 @@
+{
+  "name": "js-backend-fundamentals",
+  "version": "1.0.0",
+  "description": "Fundamentos de JavaScript para backend",
+  "main": "src/01-variables.js",
+  "scripts": {
+    "start": "node src/01-variables.js",
+    "test": "node --test tests/fundamentals.test.js"
+  },
+  "keywords": ["javascript", "fundamentals", "backend"],
+  "author": "Marcos Silva",
+  "license": "MIT"
+}
